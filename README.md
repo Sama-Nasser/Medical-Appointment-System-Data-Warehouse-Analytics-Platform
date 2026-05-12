@@ -111,7 +111,6 @@ This system provides real-world business insights such as:
 ## 🧱 Technologies Used
 
 - SQL Server
-- T-SQL
 - Data Modeling (Star Schema)
 - ETL Processes
 - Data Warehousing Concepts
